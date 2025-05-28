@@ -3,10 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Websites</b>
-  - [Skincare online store](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Skincare online store](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
   - ['GIF' informative website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Web Apps</b>
-  - [Cybersecurity awareness](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Cybersecurity awareness](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
 
 
 <h2>📺 Current Projects</h2>
