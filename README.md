@@ -2,11 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Websites</b>
-  - [Skincare online store](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
-  - ['GIF' informative website](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Web Apps</b>
   - [Cybersecurity awareness](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
+- <b>Websites</b>
+  - ['GIF' informative website](https://github.com/MiyaRichardson/GIF-Informative-Website/blob/main/README.md)
+  - [Skincare online store](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
+
 
 
 <h2>📺 Current Projects</h2>
