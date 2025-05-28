@@ -11,7 +11,7 @@
 
 
 
-<h2>📺 Current Projects</h2>
+<h2>🚀 Current Projects</h2>
 
 - I am currently developing an app for users to connect with personal trainers depending on their specific needs. The expected completion date is 02/06/25
 
