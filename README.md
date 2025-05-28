@@ -4,9 +4,10 @@
 
 - <b>Web Apps</b>
   - [Cybersecurity awareness](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
+  - [Skincare online store](https://github.com/MiyaRichardson/Product-Catalogue-Website/blob/main/README.md)
+      
 - <b>Websites</b>
   - ['GIF' informative website](https://github.com/MiyaRichardson/GIF-Informative-Website/blob/main/README.md)
-  - [Skincare online store](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
 
 
 
