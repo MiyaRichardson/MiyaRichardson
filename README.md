@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Mobile App</b>
-  - [Cybersecurity awareness](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
+  - [Personal Trainer Mobile App](https://github.com/MiyaRichardson/Trainerlink-Mobile-App)
     
 - <b>Web Apps</b>
   - [Cybersecurity awareness](https://github.com/MiyaRichardson/Cybersecurity-Awareness)
