@@ -15,7 +15,7 @@
 <h2>Documentation:</h2>
 
 - <b>ALlphamini, Unity and XREAL Glasses Connection</b>
-  - [ALlphamini, Unity and XREAL Glasses Connectio](https://github.com/MiyaRichardson/Alphamini-Unity-XREAL-Glasses-Connection)
+  - [ALlphamini, Unity and XREAL Glasses Connection](https://github.com/MiyaRichardson/Alphamini-Unity-XREAL-Glasses-Connection)
 
 
 
