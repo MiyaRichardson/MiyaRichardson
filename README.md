@@ -1,4 +1,4 @@
-<h1>Hello, I'm Miya! <br/><a href="https://github.com/MiyaRichardson">Computing</a>
+<h1>Hello, I'm Miya! <br/><a href="https://github.com/MiyaRichardson">UX Design and Software Enineering</a>
 
 <h2>Software Development Projects:</h2>
 
